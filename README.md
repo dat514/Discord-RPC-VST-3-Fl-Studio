@@ -5,7 +5,9 @@ Discord Rich Presence VST3 is a lightweight Windows VST3 utility plugin that pub
 It is built for FL Studio workflows, but the basic transport fields can work in other VST3 hosts when the host exposes playhead data.
 
 ![Discord Rich Presence VST3 demo](assets/demo.png)
-[![Download](https://img.shields.io/badge/⬇️%20Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/dat514/Discord-RPC-VST-3-Fl-Studio/releases/latest)
+
+## Download
+[![Download](https://img.shields.io/badge/⬇️%20Download-Discord.Rich.Presence.vst3.zip-blue?style=for-the-badge)](https://github.com/dat514/Discord-RPC-VST-3-Fl-Studio/releases/download
 
 ## Features
 
