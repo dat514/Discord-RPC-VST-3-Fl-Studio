@@ -7,7 +7,7 @@ It is built for FL Studio workflows, but the basic transport fields can work in 
 ![Discord Rich Presence VST3 demo](assets/demo.png)
 
 ## Download
-[![Download](https://img.shields.io/badge/⬇️%20Download-Discord.Rich.Presence.vst3.zip-blue?style=for-the-badge)](https://github.com/dat514/Discord-RPC-VST-3-Fl-Studio/releases/download
+[![Download](https://img.shields.io/badge/⬇️%20Download-Discord.Rich.Presence.vst3.zip-blue?style=for-the-badge)](https://github.com/dat514/Discord-RPC-VST-3-Fl-Studio/releases/download/1.0/Discord.Rich.Presence.vst3.zip)
 
 ## Features
 
